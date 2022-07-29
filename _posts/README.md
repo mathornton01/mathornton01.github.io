@@ -1,5 +1,8 @@
 ---
+title: How to Install and Use GEMMULEM Version 1.0
+tags: installation, gemmulem, expectation, maximization
 layout: post
+eye_catch: 
 ---
 
 # GeMMulEM (\[Ge\]neral \[M\]ixed \[Mul\]tinomial \[E\]xpectation \[M\]aximization) <div id="top"></div>
