@@ -1,3 +1,7 @@
+'''
+type: post
+'''
+
 # GeMMulEM (\[Ge\]neral \[M\]ixed \[Mul\]tinomial \[E\]xpectation \[M\]aximization) <div id="top"></div>
 
 This version of the gemmulem program is intended to be very easy to install and use, and therefore only
