@@ -1,6 +1,7 @@
-'''
+---
+layout: default
 type: post
-'''
+---
 
 # GeMMulEM (\[Ge\]neral \[M\]ixed \[Mul\]tinomial \[E\]xpectation \[M\]aximization) <div id="top"></div>
 
