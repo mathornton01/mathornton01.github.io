@@ -3,10 +3,10 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
-description: Some descriptions of yourself.
+url: http://mathornton01.github.io
+baseurl: /gemmulem
+title: GEMMULEM 1.0
+description: General Mixed & Multinomial Expectation Maximization.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
