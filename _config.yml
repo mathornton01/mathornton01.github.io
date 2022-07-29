@@ -7,9 +7,9 @@ url: http://mathornton01.github.io
 baseurl: /gemmulem
 title: GEMMULEM 1.0
 description: General Mixed & Multinomial Expectation Maximization.
-avatar: /assets/img/ogp.png
+avatar: /assets/img/gemmulemicon.png
 # favicon: /favicon.ico
-favicon: /assets/img/ogp.png
+favicon: /assets/img/gemmulemicon.png
 # language: ja
 language: en
 
